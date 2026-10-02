@@ -1,0 +1,8 @@
+{
+  "name": "Luyện Tập Trắc Nghiệm Lịch Sử",
+  "description": "Ứng dụng luyện tập trắc nghiệm Lịch sử trực quan với giải thích chi tiết, chế độ luyện tập, thi thử tính giờ và ôn tập flashcard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
